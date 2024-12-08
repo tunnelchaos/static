@@ -23,7 +23,7 @@
 ===                         General Infos                         ===
 =====================================================================
 hInfos	URL:https://events.ccc.de/congress/2024/infos/index.html	tunnelchaos.net	70
-hHub	https://events.ccc.de/congress/2024/hub/en	tunnelchaos.net	70
+hHub	URL:https://events.ccc.de/congress/2024/hub/en	tunnelchaos.net	70
 hMatrix Chat	URL:https://matrix.to/#/#38c3:events.ccc.de	tunnelchaos.net	70
 =====================================================================
 ===                       Gopher Selectors                        ===
@@ -31,3 +31,5 @@ hMatrix Chat	URL:https://matrix.to/#/#38c3:events.ccc.de	tunnelchaos.net	70
 1News	News
 1Main Stage Schedule	Schedule Main Stages
 1Phonebook	Phonebook
+1Assembly Overview	Assemblies
+1Schedule Assemblies	Schedule Assemblies
